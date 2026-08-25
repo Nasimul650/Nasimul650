@@ -7,11 +7,12 @@ I focus on creating smooth UI animations, 3D interactions, and fast, well-struct
 
 ## 🔹 About Me
 
-- 💻 Frontend Developer
-- 🎨 Love crafting modern UI with fluid animations
-- 🚀 Always learning and experimenting with new web technologies
+- 💻 Full-stack Developer passionate about building scalable, high-performance web applications
+- 🎨 Love creating modern, responsive UIs with smooth interactions and fluid animations
+- ⚙️ Experienced with both frontend and backend development
+- 🚀 Always learning, experimenting, and exploring new web technologies
 - 🌍 Based in Bangladesh
-- 📚 Currently exploring advanced animation workflows and UI performance patterns
+- 📚 Frontend-focused developer currently expanding my skills by learning backend development
 
 ---
 
