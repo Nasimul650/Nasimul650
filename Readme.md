@@ -1,6 +1,6 @@
 # Hi, I'm Nasimul 👋
 
-A passionate frontend developer who loves building clean, modern, and interactive web experiences.  
+A passionate Full-stack developer who loves building clean, modern, and interactive web experiences.  
 I focus on creating smooth UI animations, 3D interactions, and fast, well-structured applications.
 
 ---
