@@ -36,6 +36,11 @@ I focus on creating smooth UI animations, 3D interactions, and fast, well-struct
 - Vite
 - Git & GitHub
 - Figma
+
+### **Backend**
+
+- Supabase
+- Node.js 
 - REST APIs
 
 ---
@@ -43,7 +48,7 @@ I focus on creating smooth UI animations, 3D interactions, and fast, well-struct
 ## 📂 Featured Projects
 
 - 🍏 **Apple Store App** — 3D product showcase using ThreeJS & GSAP
-- 🍹 **Cocktail Page** — Clean UI with live search & GSAP animations
-- 🌐 **Static Metaverse** — Futuristic UI experiment using React & Framer Motion
+- 🍹 **Ebaub-LMS** — A modern university website + digital campus platform using Next.js, TypeScript, Tailwind CSS, and Supabase.
+- 🌐 **AlgorizeTech** — Built and deployed a production-ready web platform using Next.js (SSR & optimized routing).
 
 ---
